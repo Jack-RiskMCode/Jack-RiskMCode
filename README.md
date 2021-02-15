@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jack-RiskMCode
+- 👋 Hi, I’m Jack
 - 👀 I’m interested in stock and risk control
 - 🌱 I’m currently learning python and c+
 - 💞️ I’m looking to collaborate on finance , GUI , rick control.
